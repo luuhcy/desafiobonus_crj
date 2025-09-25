@@ -1,6 +1,6 @@
 # Desafios Bônus – Desenvolvimento Web
 
-Este repositório contém **dois desafios bônus** para ambientação com desenvolvimento web**.  
+Este repositório contém **dois desafios bônus** para ambientação com desenvolvimento web.  
 
 ## Páginas disponíveis
 
