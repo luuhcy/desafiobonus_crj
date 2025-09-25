@@ -14,5 +14,5 @@ Este repositório contém **dois desafios bônus** para ambientação com desenv
 
 ## Como acessar
 
-- Abra `pagina-apresentacao.html` para ver a página de apresentação.  
-- Abra `escolher-foca.html` para ver a página da foca.
+- Abra `luciana.html` para ver a página de apresentação.  
+- Abra `nome-do-arquivo.html` para ver a página da foca.
